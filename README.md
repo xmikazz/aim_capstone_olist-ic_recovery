@@ -54,3 +54,14 @@ The engineered customer-level features used in the modeling pipeline are defined
 │   └── README.md
 ├── README.md
 └── requirements.txt
+
+How to Run
+1. Clone the Repository and navigate to the project directory.
+
+2. Set up the environment & dependencies:
+
+pip install -r requirements.txt
+
+3. Download the Dataset: Download the Brazilian E-Commerce Public Dataset by Olist from Kaggle and place the raw CSV files directly into the data/ folder.
+
+4. Execute the Pipeline: Run the notebooks sequentially from top to bottom to clean the raw transactional tables, engineer the first-order feature matrix, train the models, and run the segmentation and fairness audits.
