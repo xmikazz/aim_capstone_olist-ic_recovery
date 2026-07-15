@@ -61,8 +61,8 @@ How to Run
 
 2. Set up the environment & dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
-3. Download the Dataset: Download the Brazilian E-Commerce Public Dataset by Olist from Kaggle and place the raw CSV files directly into the data/ folder.
+3. Download the Dataset: Download the Brazilian E-Commerce Public Dataset by Olist from Kaggle and place the raw CSV files in the same directory as the notebook.
 
-4. Execute the Pipeline: Run the notebooks sequentially from top to bottom to clean the raw transactional tables, engineer the first-order feature matrix, train the models, and run the segmentation and fairness audits.
+4. Execute the Pipeline: Run the notebook sequentially from top to bottom to clean the raw transactional tables, engineer the first-order feature matrix, train the models, and run the segmentation and fairness audits.
