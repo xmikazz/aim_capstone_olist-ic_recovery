@@ -66,3 +66,6 @@ How to Run
 3. Download the Dataset: Download the Brazilian E-Commerce Public Dataset by Olist from Kaggle and place the raw CSV files in the same directory as the notebook.
 
 4. Execute the Pipeline: Run the notebook sequentially from top to bottom to clean the raw transactional tables, engineer the first-order feature matrix, train the models, and run the segmentation and fairness audits.
+
+## Deliverables
+- [Business presentation](presentations/Olist-ic_Recovery_Presentation.pdf)
