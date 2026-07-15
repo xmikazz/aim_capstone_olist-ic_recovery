@@ -36,9 +36,6 @@ The engineered customer-level features used in the modeling pipeline are defined
 | **`target`** | Binary | Temporal join logic | $1$ if the customer placed a repeat order within 183 days; $0$ otherwise. |
 
 ---
-
-## Repository Structure
-```text
 ├── data/
 │   └── README.md
 ├── models/
