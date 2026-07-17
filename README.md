@@ -67,6 +67,3 @@ How to Run
 
 4. Execute the Pipeline: Run the notebook sequentially from top to bottom to clean the raw transactional tables, engineer the first-order feature matrix, train the models, and run the segmentation and fairness audits.
 
-## Deliverables
-- [Business presentation](presentations/Olist-ic_Recovery_Presentation.pdf)
-- [Technical presentation](presentations/Diaz_Maika_Olist-ic_Recovery_Presentation_Technical_final_version__1_.pdf)
