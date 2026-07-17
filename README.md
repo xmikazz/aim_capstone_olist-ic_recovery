@@ -69,3 +69,4 @@ How to Run
 
 ## Deliverables
 - [Business presentation](presentations/Olist-ic_Recovery_Presentation.pdf)
+- [Technical presentation](presentations/Diaz_Maika_Olist-ic_Recovery_Presentation_Technical_final_version__1_.pdf)
